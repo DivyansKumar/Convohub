@@ -1,0 +1,3 @@
+PORT=5000
+MONGO_URI=mongodb+srv://divyanshukumarug21_db_user:Divyans123@cluster0.hhk7ndl.mongodb.net/Convohub?retryWrites=true&w=majority
+JWT_SECRET=divyans_secret_key_123
