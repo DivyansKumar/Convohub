@@ -2,16 +2,16 @@
   "name": "convohub",
   "version": "1.0.0",
   "description": "Chat Application",
-  "homepage": "https://github.com/drv44/Convohub#readme",
+  "homepage": "https://github.com/DivyansKumar/Convohub#readme",
   "bugs": {
-    "url": "https://github.com/drv44/Convohub/issues"
+    "url": "https://github.com/DivyansKumar/Convohub/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drv44/Convohub.git"
+    "url": "git+https://github.com/DivyansKumar/Convohub.git"
   },
   "license": "ISC",
-  "author": "Dhruv Sarkar",
+  "author": "Divyans Kumar",
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
